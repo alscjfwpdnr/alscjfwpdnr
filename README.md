@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alscjfwpdnr just called Mike
+- ●  I'm living in Korea
+- 👀 I’m interested in Tech, Finance, Image processing, Security, etc
+- 🌱 I’m currently learning programming lang, python, java.
+- 📫 How to reach me ... alscjfwpdnr@naver.com
